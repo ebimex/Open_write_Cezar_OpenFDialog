@@ -1,0 +1,29 @@
+C:\Users\Serwis\source\repos\Otworz-Zapisz\Otworz-Zapisz\bin\Debug\Otworz-Zapisz.exe.config
+C:\Users\Serwis\source\repos\Otworz-Zapisz\Otworz-Zapisz\bin\Debug\Otworz-Zapisz.exe
+C:\Users\Serwis\source\repos\Otworz-Zapisz\Otworz-Zapisz\bin\Debug\Otworz-Zapisz.pdb
+C:\Users\Serwis\source\repos\Otworz-Zapisz\Otworz-Zapisz\obj\Debug\Otworz_Zapisz.Form1.resources
+C:\Users\Serwis\source\repos\Otworz-Zapisz\Otworz-Zapisz\obj\Debug\Otworz_Zapisz.Properties.Resources.resources
+C:\Users\Serwis\source\repos\Otworz-Zapisz\Otworz-Zapisz\obj\Debug\Otworz-Zapisz.csproj.GenerateResource.cache
+C:\Users\Serwis\source\repos\Otworz-Zapisz\Otworz-Zapisz\obj\Debug\Otworz-Zapisz.csproj.CoreCompileInputs.cache
+C:\Users\Serwis\source\repos\Otworz-Zapisz\Otworz-Zapisz\obj\Debug\Otworz-Zapisz.exe
+C:\Users\Serwis\source\repos\Otworz-Zapisz\Otworz-Zapisz\obj\Debug\Otworz-Zapisz.pdb
+C:\Users\Serwis\source\repos\Otworz-Zapisz\Otworz-Zapisz\obj\Debug\Otworz-Zapisz.csprojAssemblyReference.cache
+C:\Users\Serwis\source\repos\Otworz-Zapisz[kod cezara]\Otworz-Zapisz\bin\Debug\Otworz-Zapisz[kod cezara].exe.config
+C:\Users\Serwis\source\repos\Otworz-Zapisz[kod cezara]\Otworz-Zapisz\bin\Debug\Otworz-Zapisz[kod cezara].exe
+C:\Users\Serwis\source\repos\Otworz-Zapisz[kod cezara]\Otworz-Zapisz\bin\Debug\Otworz-Zapisz[kod cezara].pdb
+C:\Users\Serwis\source\repos\Otworz-Zapisz[kod cezara]\Otworz-Zapisz\obj\Debug\Otworz-Zapisz.csprojAssemblyReference.cache
+C:\Users\Serwis\source\repos\Otworz-Zapisz[kod cezara]\Otworz-Zapisz\obj\Debug\Otworz_Zapisz.Form1.resources
+C:\Users\Serwis\source\repos\Otworz-Zapisz[kod cezara]\Otworz-Zapisz\obj\Debug\Otworz_Zapisz.Properties.Resources.resources
+C:\Users\Serwis\source\repos\Otworz-Zapisz[kod cezara]\Otworz-Zapisz\obj\Debug\Otworz-Zapisz.csproj.GenerateResource.cache
+C:\Users\Serwis\source\repos\Otworz-Zapisz[kod cezara]\Otworz-Zapisz\obj\Debug\Otworz-Zapisz.csproj.CoreCompileInputs.cache
+C:\Users\Serwis\source\repos\Otworz-Zapisz[kod cezara]\Otworz-Zapisz\obj\Debug\Otworz-Zapisz[kod cezara].exe
+C:\Users\Serwis\source\repos\Otworz-Zapisz[kod cezara]\Otworz-Zapisz\obj\Debug\Otworz-Zapisz[kod cezara].pdb
+C:\Users\Serwis\source\repos\Otworz-Zapisz SZYFR CEZARA [polecenie OpenFileDialog]\Otworz-Zapisz\obj\Debug\Otworz_Zapisz.Form1.resources
+C:\Users\Serwis\source\repos\Otworz-Zapisz SZYFR CEZARA [polecenie OpenFileDialog]\Otworz-Zapisz\obj\Debug\Otworz_Zapisz.Properties.Resources.resources
+C:\Users\Serwis\source\repos\Otworz-Zapisz SZYFR CEZARA [polecenie OpenFileDialog]\Otworz-Zapisz\obj\Debug\Otworz-Zapisz.csproj.GenerateResource.cache
+C:\Users\Serwis\source\repos\Otworz-Zapisz SZYFR CEZARA [polecenie OpenFileDialog]\Otworz-Zapisz\obj\Debug\Otworz-Zapisz.csproj.CoreCompileInputs.cache
+C:\Users\Serwis\source\repos\Otworz-Zapisz SZYFR CEZARA [polecenie OpenFileDialog]\Otworz-Zapisz\obj\Debug\Otworz-Zapisz[kod cezara].exe
+C:\Users\Serwis\source\repos\Otworz-Zapisz SZYFR CEZARA [polecenie OpenFileDialog]\Otworz-Zapisz\obj\Debug\Otworz-Zapisz[kod cezara].pdb
+C:\Users\Serwis\source\repos\Otworz-Zapisz SZYFR CEZARA [polecenie OpenFileDialog]\Otworz-Zapisz\bin\Debug\Otworz-Zapisz[kod cezara].exe.config
+C:\Users\Serwis\source\repos\Otworz-Zapisz SZYFR CEZARA [polecenie OpenFileDialog]\Otworz-Zapisz\bin\Debug\Otworz-Zapisz[kod cezara].exe
+C:\Users\Serwis\source\repos\Otworz-Zapisz SZYFR CEZARA [polecenie OpenFileDialog]\Otworz-Zapisz\bin\Debug\Otworz-Zapisz[kod cezara].pdb
